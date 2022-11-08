@@ -1,6 +1,7 @@
 import 'package:flangapp_app/views/splash_view.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_downloader/flutter_downloader.dart';
+import 'package:open_filex/open_filex.dart';
 
 import 'config/app.dart';
 import 'helpers/hex_converter.dart';
