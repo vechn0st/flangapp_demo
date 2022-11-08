@@ -17,9 +17,7 @@
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.ACCESS_GPS" />
     <uses-feature android:name="android.hardware.location.gps" />
-    <uses-permission
-        android:name="android.permission.REQUEST_INSTALL_PACKAGES"
-        tools:node="remove" />
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" tools:node="remove" />
    <application
         android:label="flangapp_app"
         android:name="${applicationName}"
