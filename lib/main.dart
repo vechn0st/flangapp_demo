@@ -29,3 +29,6 @@ class WebApp extends StatelessWidget {
     );
   }
 }
+  open_filex:
+git:
+url: https://github.com/GoldenSoju/open_file.git
