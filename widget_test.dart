@@ -7,7 +7,6 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:open_filex/open_filex.dart';
 
 import 'package:flangapp_app/main.dart';
 
